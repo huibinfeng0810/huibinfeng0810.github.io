@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://huibinfeng0810.github.io/sitemap.xml 
